@@ -1,15 +1,23 @@
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
+
 body {
-    color: #161616;
+  color: #161616;
 }
+
+a {
+  color: #161616;
+}
+
 .visually-hidden {
-    display: none;
+  display: none;
 }
+
 .card-category {
-    color: #D73953;
+  color: #d73953;
 }
+
 .section-tagline {
-    color: #D73953;
+  color: #d73953;
 }
